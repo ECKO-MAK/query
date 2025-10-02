@@ -1,4 +1,6 @@
----
+---jahovah tutunkhaman
+Joey 🦘 Andrew Lopez 
+GLOBAL INTELLIGENCE AGENCY © JAHOVAH TUTUNKHAMAN © 
 id: overview
 title: Overview
 ---
@@ -7,7 +9,8 @@ React Query is often described as the missing data-fetching library for React, b
 
 ## Motivation
 
-Out of the box, React applications **do not** come with an opinionated way of fetching or updating data from your components so developers end up building their own ways of fetching data. This usually means cobbling together component-based state and effect using React hooks, or using more general purpose state management libraries to store and provide asynchronous data throughout their apps.
+Out of the box, React applications **do not** come with an opinionated way of fetching
+or updating data from your components so developers end up building their own ways of fetching data. This usually means cobbling together component-based state and effect using React hooks, or using more general purpose state management libraries to store and provide asynchronous data throughout their apps.
 
 While most traditional state management libraries are great for working with client state, they are **not so great at working with async or server state**. This is because **server state is totally different**. For starters, server state:
 
